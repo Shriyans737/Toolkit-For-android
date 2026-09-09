@@ -1,0 +1,86 @@
+# ToolKit 🧰
+
+A free, all-in-one Android utility app built with Flutter. No ads, no signup, no hidden costs — just tools that work, offline.
+
+---
+
+## 📥 Installation
+
+### Option 1: Download the APK (easiest)
+1. Go to the [Releases](../../releases) page of this repo
+2. Download the latest `app-release.apk` file
+3. On your Android phone, open the downloaded file
+4. If prompted "Install blocked" or "Unknown sources", go to **Settings → Security** (or tap the prompt directly) and allow installation from this source
+5. Tap **Install**, then open the app once it's done
+
+### Option 2: Build from source
+If you want to build it yourself or contribute to the project:
+
+```bash
+# 1. Clone the repo
+git clone https://github.com/your-username/toolkit.git
+cd toolkit
+
+# 2. Install Flutter dependencies
+flutter pub get
+
+# 3. Connect an Android device or start an emulator
+flutter devices
+
+# 4. Run the app in debug mode
+flutter run
+
+# OR build a release APK
+flutter build apk --release
+```
+
+The built APK will be at `build/app/outputs/flutter-apk/app-release.apk`.
+
+**Requirements:**
+- Flutter SDK installed ([flutter.dev/get-started](https://flutter.dev/get-started))
+- Android SDK (comes with Android Studio)
+- A `.env` file with a `GEMINI_API_KEY` if you want the AI Image Generator tool to work (see below)
+
+---
+
+## ✨ Features
+
+### 🖼️ Image Tools
+| Tool | What it does |
+|---|---|
+| **Image Cropper** | Crop any photo to a custom or preset aspect ratio (1:1, 4:3, 16:9, free) |
+| **Image Compressor** | Shrink an image's file size with an adjustable quality slider, shows before/after size |
+| **WebP to PNG** | Converts `.webp` images to the more widely-supported `.png` format |
+| **EXIF Viewer & Remover** | Shows a photo's hidden metadata (camera, date, GPS location) and strips it before you share the image, for privacy |
+| **AI Image Generator** | Type a description, get an AI-generated image back — powered by Google's Gemini API |
+
+### 📄 PDF Tools
+| Tool | What it does |
+|---|---|
+| **PNG to PDF** | Turns one or more images into a single PDF file |
+| **PDF to PNG** | Extracts every page of a PDF as individual PNG images |
+| **PDF Splitter** | Pulls out specific pages or a page range from a PDF into a new file |
+| **PDF Merger** | Combines multiple PDFs into one, in an order you choose |
+| **Text to PDF** | Type or paste text and generate a formatted, multi-page PDF from it |
+
+### 🔧 Everyday Utilities
+| Tool | What it does |
+|---|---|
+| **QR Code Generator** | Turns any text or URL into a scannable QR code, savable as an image |
+| **Markdown Editor** | Write Markdown with a live side-by-side preview |
+| **Password Generator** | Creates secure random passwords with adjustable length and character rules |
+| **Word & Character Counter** | Live word count, character count, and estimated reading time as you type |
+
+---
+
+
+## 🎨 Design
+
+Dark theme by default, with a light theme option in Settings. Single cyan accent color throughout, clean grid-based home screen, minimal and consistent icons across all tools.
+
+---
+
+## 📜 License & Credits
+
+Made with ❤️ by Shriyans, for friends & family. Completely free, always will be.
+
