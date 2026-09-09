@@ -10,10 +10,14 @@ generation, a markdown editor, EXIF metadata viewer/remover, password
 generator, word counter, and AI-powered image generation.
 
 No ads. No account required. No hidden costs. Just tools that work.
-<img width="260" alt="Screenshot_20260909_134024" src="https://github.com" />
-<img width="260" alt="Screenshot_20260909_134016" src="https://github.com" />
-<img width="260" alt="Screenshot_20260909_134008" src="https://github.com" />
-<img width="260" alt="Screenshot_20260909_133953" src="https://github.com" />
-<img width="260" alt="Screenshot_20260909_133941" src="https://github.com" />
-<img width="260" alt="Screenshot_20260909_133935" src="https://github.com" />
-<img width="260" alt="Screenshot_20260909_133928" src="https://github.com" />
+<p align="center">
+  <img src="https://github.com" width="24%" alt="Screenshot_20260909_134024" />
+  <img src="https://github.com" width="24%" alt="Screenshot_20260909_134016" />
+  <img src="https://github.com/user-attachments/assets/6635ca0b-e9ca-40b3-80fb-5d5b8861a6ac" width="24%" alt="Screenshot_20260909_134008" />
+  <img src="https://github.com" width="24%" alt="Screenshot_20260909_133953" />
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/64865e5b-c5db-4bc6-b03b-8e0ad50c6d7d" width="24%" alt="Screenshot_20260909_133941" />
+  <img src="https://github.com" width="24%" alt="Screenshot_20260909_133935" />
+  <img src="https://github.com/user-attachments/assets/a3e36b3d-a41c-4557-bea5-0bd14c3b61cc" width="24%" alt="Screenshot_20260909_133928" />
+</p>
