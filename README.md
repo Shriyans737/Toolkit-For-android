@@ -10,6 +10,7 @@ generation, a markdown editor, EXIF metadata viewer/remover, password
 generator, word counter, and AI-powered image generation.
 
 No ads. No account requi![Upl
+<img width="1402" height="929" alt="Screenshot 2026-09-09 at 1 58 52 PM" src="https://github.com/user-attachments/assets/9d5980b5-d239-456e-92f0-225b33e99383" />
 <img width="500" height="1200" alt="Screenshot_20260909_134024" src="https://github.com/user-attachments/assets/c442cbb2-acb4-46e9-8ce0-a3e96113099b" />
 <img width="500" height="1200" alt="Screenshot_20260909_134016" src="https://github.com/user-attachments/assets/359089ae-8a3a-4746-913c-e5515bd7ab0f" />
 <img width="500" height="1200" alt="Screenshot_20260909_134008" src="https://github.com/user-attachments/assets/6e8106fe-937d-44d5-bbf9-ade4e8de08b4" />
