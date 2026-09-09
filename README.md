@@ -11,10 +11,6 @@ generator, word counter, and AI-powered image generation.
 
 No ads. No account requi![Upl
 <img width="1402" height="929" alt="Screenshot 2026-09-09 at 1 58 52 PM" src="https://github.com/user-attachments/assets/9d5980b5-d239-456e-92f0-225b33e99383" />
-<img width="500" height="1260" alt="Screenshot_20260909_134024" src="https://github.com/user-attachments/assets/c442cbb2-acb4-46e9-8ce0-a3e96113099b" />
-<img width="500" height="1260" alt="Screenshot_20260909_134016" src="https://github.com/user-attachments/assets/359089ae-8a3a-4746-913c-e5515bd7ab0f" />
-<img width="500" height="1260" alt="Screenshot_20260909_134008" src="https://github.com/user-attachments/assets/6e8106fe-937d-44d5-bbf9-ade4e8de08b4" />
-<img width="500" height="1260" alt="Screenshot_20260909_133953" src="https://github.com/user-attachments/assets/d9c7318c-11a2-4036-91dc-a41f091b0618" />
-<img width="500" height="1260" alt="Screenshot_20260909_133941" src="https://github.com/user-attachments/assets/9fac1711-bc97-439f-8407-db4050c35573" />
-<img width="500" height="1260" alt="Screenshot_20260909_133935" src="https://github.com/user-attachments/assets/480c5f74-d52f-4bd8-ac94-73ad5c1a0120" />
-<img width="500" height="1260" alt="Screenshot_20260909_133928" src="https://github.com/user-attachments/assets/b5b46e62-3333-4fcf-abe8-e1b07a3cc6c2" />
+<img width="1279" height="720" alt="Screenshot 2026-09-09 at 2 08 54 PM" src="https://github.com/user-attachments/assets/235146bc-ce0b-4ec8-8ac8-253fac3b754e" />
+<img width="1275" height="721" alt="Screenshot 2026-09-09 at 2 08 18 PM" src="https://github.com/user-attachments/assets/5716ac81-9dff-4d0b-a6b4-defe556ac0ca" />
+<img width="1288" height="719" alt="Screenshot 2026-09-09 at 2 09 33 PM" src="https://github.com/user-attachments/assets/c71e038d-3c81-4b3b-9782-9bed961b504a" />
