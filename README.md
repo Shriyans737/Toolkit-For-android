@@ -29,7 +29,7 @@ A free, all-in-one Android utility app. No ads, no signup, no hidden costs — j
 - WebP to PNG — convert webp images to png
 - EXIF Viewer & Remover — view and strip hidden photo metadata for privacy
 - AI Image Generator — turn a text description into an image
-
+- Meme generator - with editable text and other options 
 **PDF Tools**
 - PNG to PDF — combine images into one PDF
 - PDF to PNG — extract PDF pages as images
@@ -51,7 +51,6 @@ Dark theme by default, with a light theme option. Clean, simple, no clutter.
 
 Made with ❤️ by Shriyans, for friends & family. Completely free, always will be.
 No ads. No account requi![Upl
-<img width="1402" height="929" alt="Screenshot 2026-09-09 at 1 58 52 PM" src="https://github.com/user-attachments/assets/9d5980b5-d239-456e-92f0-225b33e99383" />
-<img width="1279" height="720" alt="Screenshot 2026-09-09 at 2 08 54 PM" src="https://github.com/user-attachments/assets/235146bc-ce0b-4ec8-8ac8-253fac3b754e" />
-<img width="1275" height="721" alt="Screenshot 2026-09-09 at 2 08 18 PM" src="https://github.com/user-attachments/assets/5716ac81-9dff-4d0b-a6b4-defe556ac0ca" />
-<img width="1288" height="719" alt="Screenshot 2026-09-09 at 2 09 33 PM" src="https://github.com/user-attachments/assets/c71e038d-3c81-4b3b-9782-9bed961b504a" />
+<img width="1295" height="721" alt="Screenshot 2026-09-10 at 7 52 02 PM" src="https://github.com/user-attachments/assets/9481d6cd-988f-4a40-9cb3-8fec7be9f7bd" />
+<img width="1282" height="716" alt="Screenshot 2026-09-10 at 7 51 13 PM" src="https://github.com/user-attachments/assets/369b8d6d-1915-462b-8a27-58aec706e9f6" />
+<img width="1271" height="722" alt="Screenshot 2026-09-10 at 7 50 13 PM" src="https://github.com/user-attachments/assets/1428dd15-6a2a-4d92-a262-1cd688e18925" />
