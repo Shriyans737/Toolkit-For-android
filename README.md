@@ -29,7 +29,10 @@ A free, all-in-one Android utility app. No ads, no signup, no hidden costs — j
 - WebP to PNG — convert webp images to png
 - EXIF Viewer & Remover — view and strip hidden photo metadata for privacy
 - AI Image Generator — turn a text description into an image
-- Meme generator - with editable text and other options 
+- Meme generator - with editable text and other options
+- Quick image gemerator - allows for image generation within seconds
+- image resizer - allows for all resolutions like 1080p 720p etc
+- document scanner - for images to doucments easily 
 **PDF Tools**
 - PNG to PDF — combine images into one PDF
 - PDF to PNG — extract PDF pages as images
@@ -42,6 +45,9 @@ A free, all-in-one Android utility app. No ads, no signup, no hidden costs — j
 - Markdown Editor — write markdown with a live preview
 - Password Generator — create secure random passwords
 - Word & Character Counter — live word/character count and reading time
+- video to audio
+- audio remover
+- printer tool
 
 ## 🎨 Design
 
