@@ -21,40 +21,46 @@ A free, all-in-one Android utility app. No ads, no signup, no hidden costs — j
 4. If it warns about "unknown sources", allow it and continue
 5. Tap Install, then open the app
 
-✨ Features
-Image Tools
-⚬	Image Cropper — crop photos to any aspect ratio
-⚬	Image Compressor — shrink file size with a quality slider
-⚬	WebP to PNG — convert WebP images to PNG
-⚬	EXIF Viewer & Remover — view and strip hidden photo metadata for privacy
-⚬	AI Image Generator — turn a text description into an image
-⚬	Meme Generator — create custom memes with editable text and templates
-⚬	Quick Image Generator — generate images within seconds
-⚬	Image Resizer — scale images to standard resolutions (1080p, 720p, etc.)
-⚬	Document Scanner — turn camera into a document scanner with edge detection, page reordering, direct PDF export, and printing options
-PDF Tools
-⚬	PNG to PDF — combine images into one PDF
-⚬	PDF to PNG — extract PDF pages as high-quality images
-⚬	PDF Splitter — pull out specific pages or split multi-page PDFs
-⚬	PDF Merger — combine multiple PDFs into a single file
-⚬	Text to PDF — turn typed text or plain notes into a formatted PDF
-⚬	PDF Password Security — password-protect documents or remove existing password restrictions
-⚬	PDF Text & Document Extractor — extract raw text or convert PDF content into Word/text documents
-⚬	Compress PDF — shrink PDF file size by re-compressing embedded images on-device
-⚬	Save Website as PDF — convert any web URL into a clean, readable PDF
-Calculators & Converters
-⚬	Scientific Calculator — compute advanced mathematical operations, formulas, and functions
-⚬	Universal Unit Converter — convert metrics seamlessly across temperature, volume, data storage, length, mass, and more
-⚬	Audio Converter — convert between audio formats (MP3, WAV, AAC, OGG) without needing a computer
-AI & Learning Utilities
-⚬	Homework Solver — get step-by-step solutions powered by Google's Gemini AI with formatted math rendering, formula display, and quick copy/share options
-Everyday Utilities
-⚬	QR Code Generator — turn text or links into scannable QR codes
-⚬	Markdown Editor — write markdown with a live preview side-by-side
-⚬	Password Generator — create secure, customizable random passwords
-⚬	Word & Character Counter — view real-time word counts, character counts, and estimated reading time
-⚬	Printer Tool — send documents and images directly to connected printers
-⚬	In-App GitHub Updates — check for and download the latest app releases straight from Settings
+✨ **Features**
+
+**Image Tools**
+* **Image Cropper** — crop photos to any aspect ratio
+* **Image Compressor** — shrink file size with a quality slider
+* **WebP to PNG** — convert WebP images to PNG
+* **EXIF Viewer & Remover** — view and strip hidden photo metadata for privacy
+* **AI Image Generator** — turn a text description into an image
+* **Meme Generator** — create custom memes with editable text and templates
+* **Quick Image Generator** — generate images within seconds
+* **Image Resizer** — scale images to standard resolutions (1080p, 720p, etc.)
+* **Document Scanner** — turn camera into a document scanner with edge detection, page reordering, direct PDF export, and printing options
+
+**PDF Tools**
+* **PNG to PDF** — combine images into one PDF
+* **PDF to PNG** — extract PDF pages as high-quality images
+* **PDF Splitter** — pull out specific pages or split multi-page PDFs
+* **PDF Merger** — combine multiple PDFs into a single file
+* **Text to PDF** — turn typed text or plain notes into a formatted PDF
+* **PDF Password Security** — password-protect documents or remove existing password restrictions
+* **PDF Text & Document Extractor** — extract raw text or convert PDF content into Word/text documents
+* **Compress PDF** — shrink PDF file size by re-compressing embedded images on-device
+* **Save Website as PDF** — convert any web URL into a clean, readable PDF
+
+**Calculators & Converters**
+* **Scientific Calculator** — compute advanced mathematical operations, formulas, and functions
+* **Universal Unit Converter** — convert metrics seamlessly across temperature, volume, data storage, length, mass, and more
+* **Audio Converter** — convert between audio formats (MP3, WAV, AAC, OGG) without needing a computer
+
+**AI & Learning Utilities**
+* **Homework Solver** — get step-by-step solutions powered by Google's Gemini AI with formatted math rendering, formula display, and quick copy/share options
+
+**Everyday Utilities**
+* **QR Code Generator** — turn text or links into scannable QR codes
+* **Markdown Editor** — write markdown with a live preview side-by-side
+* **Password Generator** — create secure, customizable random passwords
+* **Word & Character Counter** — view real-time word counts, character counts, and estimated reading time
+* **Printer Tool** — send documents and images directly to connected printers
+* **In-App GitHub Updates** — check for and download the latest app releases straight from Settings
+
 ## 🎨 Design
 
 Dark theme by default, with a light theme option. Clean, simple, no clutter.
