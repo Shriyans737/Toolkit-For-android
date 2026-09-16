@@ -57,6 +57,6 @@ Dark theme by default, with a light theme option. Clean, simple, no clutter.
 
 Made with ❤️ by Shriyans, for friends & family. Completely free, always will be.
 No ads. No account requi![Upl
-<img width="1552" height="869" alt="Screenshot 2026-09-16 at 7 49 37 PM" src="https://github.com/user-attachments/assets/ddf4bf6d-4593-4b5c-986a-b22d70914d98" />
-<img width="1553" height="874" alt="Screenshot 2026-09-16 at 7 49 30 PM" src="https://github.com/user-attachments/assets/7dc659b8-2054-4ab0-b10c-10507d997a70" />
-<img width="1561" height="870" alt="Screenshot 2026-09-16 at 7 49 16 PM" src="https://github.com/user-attachments/assets/3d71aeae-ae54-49c7-9e6d-990415715390" />
+<img width="1561" height="870" alt="Screenshot 2026-09-16 at 7 49 16 PM" src="https://github.com/user-attachments/assets/0f4313c4-1231-4a1f-8111-37c516dbd578" />
+<img width="1553" height="874" alt="Screenshot 2026-09-16 at 7 49 30 PM" src="https://github.com/user-attachments/assets/1b91ca8f-f08d-4b88-b96a-5df3d2fd8175" />
+<img width="1552" height="869" alt="Screenshot 2026-09-16 at 7 49 37 PM" src="https://github.com/user-attachments/assets/27913563-49e4-4648-b02b-47d0bb620607" />
