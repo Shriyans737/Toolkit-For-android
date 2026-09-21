@@ -1,65 +1,122 @@
+ToolKit
 
-🧰 ToolKit — a free, all-in-one Android utility app. PDF tools, image  converters, QR generator, AI image gen &amp; more. No ads, no signup, no BS.
-ToolKit is a free, open Android utility app built with Flutter — a 
-collection of everyday tools in one place, so you don't need ten 
-different apps cluttering your phone.
+ToolKit is a free, all-in-one multi-tool utility application built using Flutter. It brings together a wide range of everyday utilities, image tools, PDF tools, and productivity features into a single application. ToolKit is distributed directly as an APK to friends and family and is not published on the Google Play Store.
 
-Includes: image cropping & compression, PDF conversion (PNG↔PDF, 
-splitting, merging, text-to-PDF), format conversion (WebP↔PNG), QR code 
-generation, a markdown editor, EXIF metadata viewer/remover, password 
-generator, word counter, and AI-powered image generation.
+## Overview
 
-# ToolKit 🧰
+ToolKit is a solo-developed project designed to provide a comprehensive set of tools without advertisements, sign-up requirements, or subscription fees. The application is under active development, with new tools and improvements added on a continuous basis.
 
-A free, all-in-one Android utility app. No ads, no signup, no hidden costs — just tools that work, offline.
+## Tool Inventory
 
-## 📥 Installation
+The application currently includes the following tools:
 
-1. Go to the [Releases](../../releases) page
-2. Download the latest `app-release.apk`
-3. Open the downloaded file on your phone
-4. If it warns about "unknown sources", allow it and continue
-5. Tap Install, then open the app
+1. PDF Merger
+2. PDF Splitter
+3. PDF to PNG
+4. PNG to PDF
+5. Printer Configuration
+6. EXIF Configuration Viewer
+7. Image Cropper
+8. WebP to PNG
+9. Unit Converter
+10. Calculator / Scientific Calculator
+11. Image Generator (Gemini Powered)
+12. Meme Generator
+13. Image Generator (Pollinations Powered)
+14. Homework Solver
+15. Document Solver
+16. Website to PDF
+17. QR Code Generator
+18. Image Compressor
+19. Audio Converter
+20. Video to Audio Converter
+21. PDF to Text / Word to Text
+22. EMI Calculator
+23. GST Calculator
+24. Bulk File Renamer
 
-✨ **Features**
+## Key Features
 
-**Image Tools**
-* **Image Cropper** — crop photos to any aspect ratio
-* **Image Compressor** — shrink file size with a quality slider
-* **WebP to PNG** — convert WebP images to PNG
-* **EXIF Viewer & Remover** — view and strip hidden photo metadata for privacy
-* **AI Image Generator** — turn a text description into an image
-* **Meme Generator** — create custom memes with editable text and templates
-* **Quick Image Generator** — generate images within seconds
-* **Image Resizer** — scale images to standard resolutions (1080p, 720p, etc.)
-* **Document Scanner** — turn camera into a document scanner with edge detection, page reordering, direct PDF export, and printing options
+- No advertisements and no account or sign-up requirement
+- Ability to pin up to two frequently used tools to the top of the dashboard for quick access
+- Optional splash screen animation on launch, which can be enabled or disabled from the Settings page
+- Dark and light theme support
+- Manual update checking via a direct link to the GitHub releases page
 
-**PDF Tools**
-* **PNG to PDF** — combine images into one PDF
-* **PDF to PNG** — extract PDF pages as high-quality images
-* **PDF Splitter** — pull out specific pages or split multi-page PDFs
-* **PDF Merger** — combine multiple PDFs into a single file
-* **Text to PDF** — turn typed text or plain notes into a formatted PDF
-* **PDF Password Security** — password-protect documents or remove existing password restrictions
-* **PDF Text & Document Extractor** — extract raw text or convert PDF content into Word/text documents
-* **Compress PDF** — shrink PDF file size by re-compressing embedded images on-device
-* **Save Website as PDF** — convert any web URL into a clean, readable PDF
+## Technology Stack
 
-**Calculators & Converters**
-* **Scientific Calculator** — compute advanced mathematical operations, formulas, and functions
-* **Universal Unit Converter** — convert metrics seamlessly across temperature, volume, data storage, length, mass, and more
-* **Audio Converter** — convert between audio formats (MP3, WAV, AAC, OGG) without needing a computer
+- **Framework:** Flutter (Dart)
+- **AI Backends:** Gemini API (used for the Gemini-powered image generator and Homework Solver), Pollinations API (used for the Pollinations-powered image generator)
+- **Key Packages:** `video_player`, `flutter_native_splash`, `flutter_math_fork`, `ffmpeg_kit_flutter` (min-gpl variant), `shared_preferences`, `klipy_dart`
+- **Development Tools:** Visual Studio Code with GitHub Copilot as the primary coding assistant, Android Studio (used solely for the Android SDK and emulator), Git and GitHub for version control
 
-**AI & Learning Utilities**
-* **Homework Solver** — get step-by-step solutions powered by Google's Gemini AI with formatted math rendering, formula display, and quick copy/share options
+## System Requirements
 
-**Everyday Utilities**
-* **QR Code Generator** — turn text or links into scannable QR codes
-* **Markdown Editor** — write markdown with a live preview side-by-side
-* **Password Generator** — create secure, customizable random passwords
-* **Word & Character Counter** — view real-time word counts, character counts, and estimated reading time
-* **Printer Tool** — send documents and images directly to connected printers
-* **In-App GitHub Updates** — check for and download the latest app releases straight from Settings
+- A device or emulator running Android 10 (API level 29) or later, due to scoped storage requirements used by several tools
+- Sufficient storage space to accommodate the application package, which includes bundled media processing libraries
+
+## Installation Guide
+
+### For End Users
+
+1. Navigate to the project's GitHub releases page with https://github.com/Shriyans737/Toolkit-For-android/releases
+2. Download the latest APK file listed under the most recent release.
+3. On the Android device, ensure that installation from unknown sources is permitted for the browser or file manager being used to open the APK. This setting can typically be found under Settings, then Apps, then Special App Access, then Install Unknown Apps.
+4. Open the downloaded APK file and follow the on-screen prompts to complete installation.
+5. Once installed, the application can be opened from the home screen or app drawer like any other application.
+
+To check for future updates, open the application, navigate to Settings, and select the Check for Updates option. This will direct to the GitHub releases page for manual download of the latest version.
+
+### For Developers
+
+To set up the project locally for development purposes, the following steps should be followed.
+
+**Prerequisites:**
+
+- Flutter SDK installed and configured
+- Android Studio installed, for access to the Android SDK and emulator
+- Visual Studio Code, or an equivalent IDE with Flutter and Dart plugin support
+- Git installed for version control
+
+**Setup Steps:**
+
+1. Clone the repository:
+   ```
+   git clone <repository-url>
+   ```
+2. Navigate into the project directory:
+   ```
+   cd toolkit
+   ```
+3. Install project dependencies:
+   ```
+   flutter pub get
+   ```
+4. Connect a physical Android device with USB debugging enabled, or start an Android emulator through Android Studio.
+5. Run the application in debug mode:
+   ```
+   flutter run
+   ```
+
+**Building a Release APK:**
+
+To build a release APK for distribution, run the following command from the project root:
+```
+flutter build apk --release
+```
+The generated APK file will be located under `build/app/outputs/flutter-apk/`.
+
+## Project Notes
+
+- The application is not distributed through the Google Play Store. All distribution is handled manually through direct APK sharing and the GitHub releases page.
+- An iOS port of the application is in progress, with a porting checklist maintained separately to track compatibility and platform-specific adjustments.
+- Development tracking is managed through GitHub Issues, with tasks organized in checklist format and closed through commit references or the GitHub CLI.
+
+## License
+
+This project is a personal, non-commercial application. Licensing terms should be added here if the project is made available for wider distribution or open-source contribution.
+ME.md…]()
+
 
 ## 🎨 Design
 
